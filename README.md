@@ -19,6 +19,10 @@ Instead of acting as a simple chatbot wrapper, ForgeMind introduces:
 
 The project simulates a factory AI assistant that continuously improves through worker interactions.
 
+
+**[Watch Demo Video](https://drive.google.com/file/d/1aG1McRpAZThrCny_Dxfc43QOWU34LP9g/view?usp=sharing)**
+
+
 ---
 
 # Core Features
