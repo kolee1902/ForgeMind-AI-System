@@ -228,7 +228,7 @@ Retrieval System
         ↓
 Future Worker Conversations
 ```
-<img src="/System_Architecture_and_Flow.png" width="700">
+<img src="/system_architecture.png" width="700">
 
 ---
 
