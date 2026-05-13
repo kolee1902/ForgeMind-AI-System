@@ -14,7 +14,7 @@ from app.memory import (
     get_review_queue,
     approve_claim,
     reject_claim
-) # them
+)
 
 
 # app = FastAPI()
